@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  center_user_id: 1
+  ,date_quote: 2014-09-09 17:57:35
+  ,consulate_branch_id: 1
+
+two:
+  center_user_id: 1
+  ,date_quote: 2014-09-09 17:57:35
+  ,consulate_branch_id: 1

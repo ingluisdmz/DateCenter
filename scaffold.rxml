@@ -1,0 +1,8 @@
+##TempRestaurant tiene un identificador que lo identifica con la version de si misma publicada
+
+rails g model CenterUser
+rails g model user_appointments center_user_id:integer ,date_quote:datetime ,consulate_branch_id:integer
+
+
+
+
